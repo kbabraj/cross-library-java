@@ -32,7 +32,7 @@
             onUpdate="RESTRICT"
             referencedColumnNames="id"
             referencedTableName="book"/>
-          <addForeignKeyConstraint baseColumnNames="member_id"
+        <addForeignKeyConstraint baseColumnNames="member_id"
             baseTableName="transaction"
             constraintName="fk_transaction_member"
             onDelete="CASCADE"

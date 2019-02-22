@@ -1,14 +1,14 @@
 /**
- * 
+ *
  */
 package com.crossover.techtrial.model;
 
 /**
- * @author kshah
+ * @author kbabraj
  *
  */
 public enum MembershipStatus {
-  ACTIVE,
-  INACTIVE,
-  BLOCKED
+    ACTIVE,
+    INACTIVE,
+    BLOCKED
 }

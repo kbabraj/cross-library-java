@@ -1,5 +1,5 @@
 /**
- * 
+ *
  */
 package com.crossover.techtrial.repositories;
 
@@ -8,7 +8,7 @@ import org.springframework.data.repository.CrudRepository;
 import org.springframework.data.rest.core.annotation.RestResource;
 
 /**
- * @author crossover
+ * @author kbabraj
  *
  */
 @RestResource(exported = false)
